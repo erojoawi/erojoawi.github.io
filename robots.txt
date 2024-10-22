@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://erojoawi.github.io/AFs/sitemap_index.txt.gz
+Sitemap: https://erojoawi.github.io/lBD/sitemap_index.txt.gz
+Sitemap: https://erojoawi.github.io/oVE/sitemap_index.txt.gz
+Sitemap: https://erojoawi.github.io/sAr/sitemap_index.txt.gz
+Sitemap: https://erojoawi.github.io/xHM/sitemap_index.txt.gz
